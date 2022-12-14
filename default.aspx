@@ -1,1 +1,1 @@
-<% Response.Write("Hello Alfa!!!"); %>
+Hallo Alfa!!!
