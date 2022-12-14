@@ -1,1 +1,1 @@
-<? Response.Write("Hello Alfa!!!") ?>
+<% Response.Write("Hello Alfa!!!"); %>
